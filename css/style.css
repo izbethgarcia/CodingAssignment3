@@ -1,0 +1,27 @@
+body {
+ background: #C2B927;
+ color: #FAFAF7;
+ font-family: "Verdana, sans-serif";
+/*font-weight: bold; */
+}
+
+h1, h2, h3 {
+ font-family: "Smooch Sans";   
+ color: #FAFAF7;
+ font-style:normal;
+/*font-size:20px; */
+}
+
+legend, fieldset {
+color: #000;
+}
+
+p {
+ color: #FAFAF7;    
+}
+
+li {
+  color: #FAFAF7;
+}
+
+
