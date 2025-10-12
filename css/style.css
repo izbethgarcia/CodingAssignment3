@@ -1,13 +1,13 @@
 body {
  background: #C2B927;
- color: #FAFAF7;
+ color: #000
  font-family: "Verdana, sans-serif";
 /*font-weight: bold; */
 }
 
 h1, h2, h3 {
  font-family: "Smooch Sans";   
- color: #FAFAF7;
+ color: #000
  font-style:normal;
 /*font-size:20px; */
 }
@@ -17,11 +17,11 @@ color: #000;
 }
 
 p {
- color: #FAFAF7;    
+ color: #000    
 }
 
 li {
-  color: #FAFAF7;
+  color: #000
 }
 
 
