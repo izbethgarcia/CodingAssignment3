@@ -23,5 +23,15 @@ p {
 li {
   color: #000;
 }
+.wrapper {
 
+  display: flex;
+
+}
+
+.wrapper div {
+
+  flex: 1;
+
+}
 
